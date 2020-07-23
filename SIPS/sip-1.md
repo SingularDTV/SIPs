@@ -1,9 +1,9 @@
 ---
 sip: 1
-title: SIP Purpose and Guidelines
+title: SUP Purpose and Guidelines
 status: Implemented
-author: Kain Warwick (@kaiynne)
-discussions-to: https://research.synthetix.io/
+author: Troy Murray (@danny_desert)
+discussions-to: https://forum.snglsDAO.io/
 created: 2019-06-10
 updated: N/A
 ---
