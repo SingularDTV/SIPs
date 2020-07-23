@@ -2,7 +2,7 @@
 SUP: 1
 title: SUP Purpose and Guidelines
 status: Implemented
-author: Troy Murray (@dannydesert)
+author: Troy Murray (@danny_desert)
 discussions-to: https://forum.snglsDAO.io/
 created: 2020-07-23
 updated: N/A
@@ -130,7 +130,7 @@ SUPs may include auxiliary files such as diagrams. Such files must be named SUP-
 
 The current SUP editors are
 
-` * Troy Murray (@dannydesert)`
+` * Troy Murray (@danny_desert)`
 
 ## SUP Editor Responsibilities
 
@@ -163,7 +163,7 @@ The SUP document was derived heavily from the EIP Ethereum Improvement Proposal 
 June 10, 2019: SUP 1 has been drafted and submitted as a PR.
 
 
-See [the revision history for further details](https://github.com/Synthetixio/), which is also available by clicking on the History button in the top right of the SUP.
+See [the revision history for further details](https://github.com/SingularDTV/), which is also available by clicking on the History button in the top right of the SUP.
 
 ### Bibliography
 
