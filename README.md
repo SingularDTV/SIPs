@@ -16,8 +16,6 @@ If your SUP requires images, the image files should be included in a subdirector
 
 When you believe your SUP is mature and ready to progress past the WIP phase, you should ask to have your issue added to the next governance call where it can be discussed for inclusion in a future platform upgrade. If the community agrees to include it, the SUP editors will update the state of your SUP to 'Approved'. 
 
-There is a 500 sUSD bounty for proposing a SUP that reaches the 'Implemented' phase. 
-
 # SUP Statuses
 
 * **WIP** - a SUP that is still being developed.
