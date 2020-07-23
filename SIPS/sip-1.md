@@ -4,7 +4,7 @@ title: SUP Purpose and Guidelines
 status: Implemented
 author: Troy Murray (@danny_desert)
 discussions-to: https://forum.snglsDAO.io/
-created: 2019-06-10
+created: 2020-07-23
 updated: N/A
 ---
 
